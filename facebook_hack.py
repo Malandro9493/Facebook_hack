@@ -1,4 +1,4 @@
-#!/usr/bin/python
+Malandro9493:patch-1#!/usr/bin/python
 
 import socket, sys, os, re, random, optparse, time, io
 if sys.version_info.major <= 2:import httplib
